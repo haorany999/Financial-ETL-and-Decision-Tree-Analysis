@@ -72,21 +72,4 @@ This project focuses on extracting, transforming, and loading (ETL) financial da
   - `scikit-learn`
   - `Flask`
 
-## Summary
-
-This project provides a comprehensive approach to financial data analysis, combining the power of ETL processes with the predictive capabilities of decision trees. It serves as a valuable tool for financial analysts and data scientists interested in market trend predictions and decision-making support.
-
-## License
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Authors
-
-- Haoran Yang
-- Nan Nan
-- Siyuan Song
-- Chong Peng
-- Zehao Zhou
 
